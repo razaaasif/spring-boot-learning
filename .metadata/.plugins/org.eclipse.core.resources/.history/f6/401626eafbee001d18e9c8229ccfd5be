@@ -1,0 +1,13 @@
+package com.example.demo.interfacesImpl;
+
+import com.example.demo.interfaces.Coach;
+
+public class TrackCoach implements Coach {
+
+	@Override
+	public String getDialyWorkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.example.demo.interfacesImpl;
+
+import com.example.demo.interfaces.Coach;
+
+public class CricketCoach implements Coach {
+
+}
